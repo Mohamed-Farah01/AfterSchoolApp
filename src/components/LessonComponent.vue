@@ -82,7 +82,7 @@ export default {
       searchTerm: "",
       sortAttribute: "subject",
       sortOrder: "asc",
-      baseURL: "https:/backend-coursework-2.vercel.app/",
+      baseURL: "https://backend-coursework-2.vercel.app/",
     };
   },
   created() {

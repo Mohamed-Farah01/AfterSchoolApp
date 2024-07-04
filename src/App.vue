@@ -28,7 +28,7 @@ export default {
       lessons: [],
       cart: [],
       showCheckout: false,
-      baseURL: "https:/backend-coursework-2.vercel.app/"
+      baseURL: "https://backend-coursework-2.vercel.app/"
     };
   },
   methods: {
